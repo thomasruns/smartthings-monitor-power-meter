@@ -1,2 +1,2 @@
-# smartthings-aeon-monitor-power
-Monitors power of Aeon Energy device to alert when it drops below selected value.
+# smartthings-monitor-power-meter
+Monitors the power of a selected Power Meter and sends a push notification when the energy level drops below a user-selected value.
